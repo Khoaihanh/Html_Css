@@ -1,0 +1,54 @@
+@media only screen and (max-width: 768px) {
+
+   
+    #khung
+    {
+        margin-top: 30px;
+    }
+    
+
+
+    
+  
+   
+}
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+
+
+    
+   
+
+
+ 
+  
+}
+@media only screen and (min-width: 992px) {
+   
+   
+    .btn-success
+    {
+        margin: auto !important;
+        width: 200px !important;
+        
+        text-align: center;
+    }
+
+   
+    .dktv
+    {
+        
+        width: 900px;
+        height: auto;
+        border: 1px solid;
+        margin: auto;
+        padding: 10px;
+        border-radius: 10px;
+        margin-top: 30px;
+    }
+    
+    
+  
+}
+
+
+
